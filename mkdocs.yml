@@ -1,0 +1,14 @@
+site_name: Dingyu Shao's Research Group 
+
+nav:
+  - HOME: index.md
+  - TEACHING: teaching.md
+  - PEOPLE: people.md
+  - RESEARCH: research.md  
+  - SEMINAR: seminars.md  
+  - PUBLICATIONS: publications.md
+  - RESOURCES: resources.md  
+  - ABOUT D. SHAO: aboutPI.md  
+  - CONTACT US: contactus.md
+
+theme: readthedocs
