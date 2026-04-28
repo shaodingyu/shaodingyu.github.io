@@ -1,6 +1,6 @@
 # Home 
 
-![](./feyn_dia.png)
+![](./group.jpg)
 
 Our research in theoretical high energy physics focus on quantum field theory and its application, with main research focuses on:
 

@@ -21,7 +21,17 @@
 ### 2023:
 
 - Quantum Field Theory
+    - [Introduction](teaching_pdf/QFT/0-Introduction.pdf)
+    - [Classical_Field_Theory](teaching_pdf/QFT/1-Classical-Field-Theory.pdf)
+    - [Scalar_Fields](teaching_pdf/QFT/2-Scalar-field.pdf)
+    - [Interaction](teaching_pdf/QFT/3-Interacting-fields.pdf)
+    - [Vector_Fields](teaching_pdf/QFT/4-Spin-1.pdf)
+    - [Dirac_Fields](teaching_pdf/QFT/5-Dirac-Field.pdf)
+    - [QED](teaching_pdf/QFT/6-QED.pdf)
 - Gauge Field Theory
+    - [Path_Integral](teaching_pdf/QFT2/path-integral.pdf)
+    - [Renormalization_Group](teaching_pdf/QFT2/RGandRGE.pdf)
+    - [QCD](teaching_pdf/QFT2/QCD.pdf)
 
 
   
