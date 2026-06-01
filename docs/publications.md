@@ -2,6 +2,12 @@
 
 You can find the [full list](https://inspirehep.net/authors/1077845?ui-citation-summary=true) of our papers through "[INSPIRE-HEP](https://inspirehep.net/)" (High Energy Physics Literature Database). The publications since 2021 are listed below. (In particle physics, it is the convention that the authors are ordered alphabetically by the last name.) 
 
+- **Nested-GPT for variable-multiplicity parton showers: A case study in the resummation of non-global logarithms**
+  <br/>Wanchen Li, Ding Yu Shao, Hao-Zhe Shi, Yu-Xuan Sun
+  <br/>[arXiv:2605.18360](https://arxiv.org/abs/2605.18360)
+  <br/>
+  <br/>
+
 - **Two-Dimensional Transverse-Momentum Subtraction and Semi-Inclusive Deep-Inelastic Scattering at N$^3$LO in QCD**
   <br/>Liang Dong, Shen Fang, Jun Gao, Hai Tao Li, Ding Yu Shao, Hua Xing Zhu, Yu Jiao Zhu
   <br/>[arXiv:2603.29673](https://arxiv.org/abs/2603.29673)
@@ -14,6 +20,12 @@ You can find the [full list](https://inspirehep.net/authors/1077845?ui-citation-
   <br/>
   <br/>
 
+- **Resummed azimuthal decorrelation and transverse momentum imbalance of dijets at the LHC**
+  <br/>Rong-Jun Fu, Rudi Rahn, Ding Yu Shao, Wouter J. Waalewijn, Bin Wu
+  <br/>[arXiv:2602.20249](https://arxiv.org/abs/2602.20249)
+  <br/>
+  <br/>
+
 - **NNLL$^\prime$ resummation of azimuthal decorrelation for boosted top quark pair production at the LHC**
   <br/>Qian-Shun Dai, Ming-Jun Liu, Ding Yu Shao
   <br/>[arXiv:2602.12572](https://arxiv.org/abs/2602.12572)
@@ -22,7 +34,13 @@ You can find the [full list](https://inspirehep.net/authors/1077845?ui-citation-
 
 - **Geometry-induced azimuthal anisotropy in coherent $J/\psi$ photoproduction**
   <br/>Ding Yu Shao, Han-Qing Yu, Cheng Zhang, Jian Zhou
-  <br/>[arXiv:2511.17670](https://arxiv.org/abs/2511.17670)
+  <br/>[Phys.Rev.D 113 (2026) 3, 036020](https://arxiv.org/abs/2511.17670)
+  <br/>
+  <br/>
+
+- **Determination of the initial condition for the Balitsky-Kovchegov equation with transformers**
+  <br/>Meisen Gao, Zhong-Bo Kang, Jani Penttala, Ding Yu Shao
+  <br/>[JHEP 03 (2026) 034](https://arxiv.org/abs/2510.26779)
   <br/>
   <br/>
 
