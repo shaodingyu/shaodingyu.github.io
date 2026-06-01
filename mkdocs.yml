@@ -2,6 +2,7 @@ site_name: Dingyu Shao's Research Group
 
 nav:
   - HOME: index.md
+  - NEWS: news.md
   - TEACHING: teaching.md
   - PEOPLE: people.md
   - RESEARCH: research.md  
