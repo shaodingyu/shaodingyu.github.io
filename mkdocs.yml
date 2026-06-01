@@ -1,14 +1,50 @@
-site_name: Dingyu Shao's Research Group 
+site_name: Dingyu Shao's Research Group
+site_description: Particle Physics Theory Group at Fudan University
+site_author: Dingyu Shao
 
 nav:
-  - HOME: index.md
-  - NEWS: news.md
-  - TEACHING: teaching.md
-  - PEOPLE: people.md
-  - RESEARCH: research.md  
-  - PUBLICATIONS: publications.md
-  - RESOURCES: resources.md  
-  - ABOUT D. SHAO: aboutPI.md  
-  - CONTACT US: contactus.md
+  - Home: index.md
+  - News: news.md
+  - Teaching: teaching.md
+  - People: people.md
+  - Research: research.md
+  - Publications: publications.md
+  - Resources: resources.md
+  - About D. Shao: aboutPI.md
+  - Contact: contactus.md
 
-theme: readthedocs
+theme:
+  name: material
+  language: en
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-night
+        name: Dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Light mode
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - attr_list
+  - md_in_html
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
