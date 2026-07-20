@@ -11,6 +11,7 @@
 
 ### Postdoctoral Scholars
 Wan-Chen Li (李婉辰，博士后海外引才专项，上海市“超级博士后”)
+<br/>Jack Holligan
 
 ### Graduate Students
 
