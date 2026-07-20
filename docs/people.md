@@ -10,8 +10,7 @@
 <br/>Office: S517, Physics building, Jiangwan campus
 
 ### Postdoctoral Scholars
-Fang Xu (徐放，上海市“超级博士后”，上海市引进项目)
-<br/>Wan-Chen Li (李婉辰，博士后海外引才专项，上海市“超级博士后”)
+Wan-Chen Li (李婉辰，博士后海外引才专项，上海市“超级博士后”)
 
 ### Graduate Students
 
@@ -27,6 +26,5 @@ Fang Xu (徐放，上海市“超级博士后”，上海市引进项目)
 <br/>Zhan-Hong Zhu (朱展宏 2025直博)
 
 硕士研究生
-<br/>Zuo Luan (栾佐)
 <br/>Han-Qing Yu (于瀚清)
 
