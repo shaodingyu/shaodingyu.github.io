@@ -2,6 +2,24 @@
 
 You can find the [full list](https://inspirehep.net/authors/1077845?ui-citation-summary=true) of our papers through "[INSPIRE-HEP](https://inspirehep.net/)" (High Energy Physics Literature Database). The publications since 2021 are listed below. (In particle physics, it is the convention that the authors are ordered alphabetically by the last name.) 
 
+- **Tracing Vacuum Hadronization with Conserved Currents**
+  <br/>Weiyao Ke, Hai Tao Li, Wanchen Li, Xiaohui Liu, Ding Yu Shao
+  <br/>[arXiv:2608.19708](https://arxiv.org/abs/2608.19708)
+  <br/>
+  <br/>
+
+- **Transverse Charge Distribution as a Probe of Nucleon Transversity**
+  <br/>Wanchen Li, Xiaohui Liu, Ding Yu Shao
+  <br/>[arXiv:2607.16392](https://arxiv.org/abs/2607.16392)
+  <br/>
+  <br/>
+
+- **Azimuthal decorrelation in diffractive dijet production**
+  <br/>Ding Yu Shao, Yu Shi, Cheng Zhang, Jian Zhou, Ya-jin Zhou
+  <br/>[arXiv:2606.02230](https://arxiv.org/abs/2606.02230)
+  <br/>
+  <br/>
+
 - **Nested-GPT for variable-multiplicity parton showers: A case study in the resummation of non-global logarithms**
   <br/>Wanchen Li, Ding Yu Shao, Hao-Zhe Shi, Yu-Xuan Sun
   <br/>[arXiv:2605.18360](https://arxiv.org/abs/2605.18360)
@@ -14,27 +32,27 @@ You can find the [full list](https://inspirehep.net/authors/1077845?ui-citation-
   <br/>
   <br/>
 
-- **NNLO QCD corrections to hadron production in DIS at finite transverse momentum**
+- **Next-to-Next-to-Leading-Order QCD Corrections to Hadron Production in Deep-Inelastic Scattering at Finite Transverse Momentum**
   <br/>Liang Dong, Shen Fang, Jun Gao, Hai Tao Li, Ding Yu Shao, Yu Jiao Zhu
-  <br/>[arXiv:2602.22972](https://arxiv.org/abs/2602.22972)
+  <br/>[Phys. Rev. Lett. 137, 081902 (2026)](https://arxiv.org/abs/2602.22972)
   <br/>
   <br/>
 
 - **Resummed azimuthal decorrelation and transverse momentum imbalance of dijets at the LHC**
   <br/>Rong-Jun Fu, Rudi Rahn, Ding Yu Shao, Wouter J. Waalewijn, Bin Wu
-  <br/>[arXiv:2602.20249](https://arxiv.org/abs/2602.20249)
+  <br/>[JHEP 08 (2026) 105](https://arxiv.org/abs/2602.20249)
   <br/>
   <br/>
 
 - **NNLL$^\prime$ resummation of azimuthal decorrelation for boosted top quark pair production at the LHC**
   <br/>Qian-Shun Dai, Ming-Jun Liu, Ding Yu Shao
-  <br/>[arXiv:2602.12572](https://arxiv.org/abs/2602.12572)
+  <br/>[JHEP 07 (2026) 227](https://arxiv.org/abs/2602.12572)
   <br/>
   <br/>
 
 - **Geometry-induced azimuthal anisotropy in coherent $J/\psi$ photoproduction**
   <br/>Ding Yu Shao, Han-Qing Yu, Cheng Zhang, Jian Zhou
-  <br/>[Phys.Rev.D 113 (2026) 3, 036020](https://arxiv.org/abs/2511.17670)
+  <br/>[Phys. Rev. D 113, 094022 (2026)](https://arxiv.org/abs/2511.17670)
   <br/>
   <br/>
 
@@ -64,7 +82,7 @@ You can find the [full list](https://inspirehep.net/authors/1077845?ui-citation-
 
 - **Nucleon Tomography with Zero Jettiness**
   <br/>Shen Fang, Shuo Lin, Ding Yu Shao, Jian Zhou
-  <br/>[Phys.Rev.Lett. 136 (2026) 2](https://arxiv.org/abs/2506.15962)
+  <br/>[Phys. Rev. Lett. 136, 021901 (2026)](https://arxiv.org/abs/2506.15962)
   <br/>
   <br/>
 
@@ -76,7 +94,7 @@ You can find the [full list](https://inspirehep.net/authors/1077845?ui-citation-
 
 - **$q_T$ Slicing with Multiple Jets**
   <br/>Rong-Jun Fu, Rudi Rahn, Ding Yu Shao, Wouter J. Waalewijn, Bin Wu
-  <br/>[Phys.Rev.Lett. 135 (2025) 17, 17](https://arxiv.org/abs/2412.05358)
+  <br/>[Phys. Rev. Lett. 135, 171903 (2025)](https://arxiv.org/abs/2412.05358)
   <br/>
   <br/>  
 

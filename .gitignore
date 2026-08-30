@@ -18,3 +18,4 @@ site/
 /teaching/
 /group.jpg
 .DS_Store
+__pycache__/

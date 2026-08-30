@@ -46,5 +46,8 @@ markdown_extensions:
   - attr_list
   - md_in_html
 
+hooks:
+  - mkdocs_hooks.py
+
 extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
