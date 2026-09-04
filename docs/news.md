@@ -120,6 +120,9 @@
 
 - **媒体报道：科学家指出在金-金碰撞中寻找光子变物质的可行性**
   <br/>2026年1月20日
+  <br/><span style="display:block; width:100%; max-width:380px; aspect-ratio:867 / 637; margin:0.75rem auto 1rem; overflow:hidden; border-radius:4px;">
+    <img src="photon-matter-media-2026.png" alt="光子变物质研究宣传图" style="display:block; width:115.34%; max-width:none; height:auto; margin-left:-7.73%;" />
+  </span>
   <br/>腾讯新闻报道复旦大学邵鼎煜、杭州师范大学张成团队在《中国科学》上发表的关于RHIC超偏心重离子碰撞中光子诱导质子-反质子对产生的研究，科普了在高能重离子碰撞中通过光子-光子融合产生物质的过程及其科学意义。
   <br/>[查看详情](https://news.qq.com/rain/a/20260120Q05O4000)
   <br/>
