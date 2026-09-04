@@ -2,6 +2,12 @@
 
 You can find the [full list](https://inspirehep.net/authors/1077845?ui-citation-summary=true) of our papers through "[INSPIRE-HEP](https://inspirehep.net/)" (High Energy Physics Literature Database). The publications since 2021 are listed below. (In particle physics, it is the convention that the authors are ordered alphabetically by the last name.) 
 
+- **Recoil Geometry Unmasks Gluon Saturation in Forward $Z^0$ Production**
+  <br/>Wanchen Li, Ding Yu Shao, Shu-Yi Wei, Jian Zhou
+  <br/>[arXiv:2609.02356](https://arxiv.org/abs/2609.02356)
+  <br/>
+  <br/>
+
 - **Tracing Vacuum Hadronization with Conserved Currents**
   <br/>Weiyao Ke, Hai Tao Li, Wanchen Li, Xiaohui Liu, Ding Yu Shao
   <br/>[arXiv:2608.19708](https://arxiv.org/abs/2608.19708)

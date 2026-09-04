@@ -50,6 +50,12 @@
 - Quantum Field Theory
 - 有效量子场论与费曼积分（无学分讨论班）
 
+### 教学荣誉
+
+- 复旦大学2025年度青年教师教学竞赛一等奖
+- 第三届苏汝铿卓越教学奖
+- 复旦大学2025年度教育评价改革实践与创新成果——“理论、计算、建模三维驱动：《数学物理方法》多元能力评价体系的创新与实践”
+
 ## Resources on Effective Field Theories
 
 - A. V. Manohar and M. B. Wise, **Heavy quark physics**
@@ -59,4 +65,4 @@
 - Matthias Neubert, **Heavy-Quark Effective Theory**, arXiv: [9610266](https://arxiv.org/abs/hep-ph/9610266)
 
 
-建设中... 
+建设中...

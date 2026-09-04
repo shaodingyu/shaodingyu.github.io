@@ -25,7 +25,8 @@ Wan-Chen Li (李婉辰，博士后海外引才专项，上海市“超级博士�
 <br/>Zhao Chen (陈钊 2024直博)
 <br/>Yu-Hang Zhao (赵宇航 2024直博)
 <br/>Zhan-Hong Zhu (朱展宏 2025直博)
+<br/>Yao-Ze Zhang (张耀泽 2026博)
+<br/>Chen-Guang Kong (孔辰光 2026博)
 
 硕士研究生
 <br/>Han-Qing Yu (于瀚清)
-
