@@ -1,4 +1,13 @@
 
+## Schools Organized
+
+- **2026** · [Fudan Particle Physics Summer School 2026](https://indico.ihep.ac.cn/event/29307/) · August 16–29
+- **2025** · [“新视角下的强相互作用”冬季学校](https://indico.ihep.ac.cn/event/22578/) · February 5–11
+- **2024** · [QCD and Heavy Ion Collision Physics Summer School](https://indico.ihep.ac.cn/event/21449/) · August 5–23
+- **2022** · [复旦大学“优秀学生培养计划”粒子物理与核物理暑期学校](https://indico.ihep.ac.cn/event/16832/) · August 13–21
+
+## Courses
+
 ### 2026:
 
 - 数学物理方法 
@@ -55,6 +64,17 @@
 - 复旦大学2025年度青年教师教学竞赛一等奖
 - 第三届苏汝铿卓越教学奖
 - 复旦大学2025年度教育评价改革实践与创新成果——“理论、计算、建模三维驱动：《数学物理方法》多元能力评价体系的创新与实践”
+
+## Science Outreach
+
+### 《大爆炸的遗迹》
+
+![《大爆炸的遗迹》科普歌曲宣传图](media/big-bang-relic-song.jpg)
+
+<audio controls preload="metadata" style="width: 100%;">
+  <source src="../media/big-bang-relic.mp3" type="audio/mpeg">
+  您的浏览器不支持音频播放。
+</audio>
 
 ## Resources on Effective Field Theories
 

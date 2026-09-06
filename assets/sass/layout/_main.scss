@@ -48,6 +48,108 @@
 				padding-bottom: 0;
 			}
 
+			&#research {
+				.research-intro {
+					font-size: 1.05rem;
+					line-height: 1.75;
+					margin-bottom: 1rem;
+				}
+
+				.research-context {
+					margin-bottom: 1.5rem;
+				}
+
+				.research-qcd {
+					margin-bottom: 1rem;
+				}
+
+				.research-vision {
+					background: transparentize(_palette(fg-bold), 0.965);
+					border-left: solid 2px transparentize(_palette(fg-bold), 0.35);
+					margin: 1.75rem 0 2.25rem 0;
+					padding: 1.1rem 1.25rem;
+
+					h3 {
+						font-size: 0.82rem;
+						letter-spacing: 0.14rem;
+						margin-bottom: 0.65rem;
+					}
+
+					p {
+						margin-bottom: 0;
+					}
+				}
+
+				.research-theme {
+					padding: 1.6rem 0 0.2rem 0;
+
+					& + .research-theme {
+						border-top: solid 1px transparentize(_palette(fg-bold), 0.72);
+						margin-top: 0.5rem;
+					}
+
+					h3 {
+						line-height: 1.45;
+						margin-bottom: 0.15rem;
+					}
+
+					ul {
+						margin-bottom: 1rem;
+					}
+
+					li {
+						margin-bottom: 0.35rem;
+					}
+				}
+
+				.research-number {
+					color: transparentize(_palette(fg-bold), 0.45);
+					display: inline-block;
+					font-size: 0.75rem;
+					letter-spacing: 0.12rem;
+					margin-right: 0.55rem;
+					min-width: 2.35rem;
+					vertical-align: 0.15rem;
+				}
+
+				.research-subtitle {
+					font-size: 0.72rem;
+					letter-spacing: 0.06rem;
+					line-height: 1.5;
+					margin: 0 0 0.85rem 2.9rem;
+					opacity: 0.62;
+					text-transform: uppercase;
+				}
+
+				.research-label {
+					font-size: 0.78rem;
+					font-weight: _font(weight-bold);
+					letter-spacing: 0.08rem;
+					margin-bottom: 0.4rem;
+					opacity: 0.72;
+				}
+			}
+
+			&#teaching {
+				.outreach-item {
+					margin-top: 1rem;
+				}
+
+				.outreach-cover {
+					border-radius: _size(border-radius);
+					display: block;
+					height: auto;
+					margin: 0 0 1.25rem 0;
+					width: 100%;
+				}
+
+				.outreach-audio {
+					display: block;
+					margin: 0.25rem 0 1rem 0;
+					width: 100%;
+				}
+			}
+
 			.close {
 				display: block;
 				position: absolute;

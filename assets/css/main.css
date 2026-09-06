@@ -1568,6 +1568,104 @@ input, select, textarea {
 				padding-bottom: 0;
 			}
 
+			#main article#research .research-intro {
+				font-size: 1.05rem;
+				line-height: 1.75;
+				margin-bottom: 1rem;
+			}
+
+			#main article#research .research-context {
+				margin-bottom: 1.5rem;
+			}
+
+			#main article#research .research-qcd {
+				margin-bottom: 1rem;
+			}
+
+			#main article#research .research-vision {
+				background: rgba(255, 255, 255, 0.035);
+				border-left: solid 2px rgba(255, 255, 255, 0.65);
+				margin: 1.75rem 0 2.25rem 0;
+				padding: 1.1rem 1.25rem;
+			}
+
+				#main article#research .research-vision h3 {
+					font-size: 0.82rem;
+					letter-spacing: 0.14rem;
+					margin-bottom: 0.65rem;
+				}
+
+				#main article#research .research-vision p {
+					margin-bottom: 0;
+			}
+
+			#main article#research .research-theme {
+				padding: 1.6rem 0 0.2rem 0;
+			}
+
+				#main article#research .research-theme + .research-theme {
+					border-top: solid 1px rgba(255, 255, 255, 0.28);
+					margin-top: 0.5rem;
+				}
+
+				#main article#research .research-theme h3 {
+					line-height: 1.45;
+					margin-bottom: 0.15rem;
+				}
+
+				#main article#research .research-theme ul {
+					margin-bottom: 1rem;
+				}
+
+				#main article#research .research-theme li {
+					margin-bottom: 0.35rem;
+				}
+
+			#main article#research .research-number {
+				color: rgba(255, 255, 255, 0.55);
+				display: inline-block;
+				font-size: 0.75rem;
+				letter-spacing: 0.12rem;
+				margin-right: 0.55rem;
+				min-width: 2.35rem;
+				vertical-align: 0.15rem;
+			}
+
+			#main article#research .research-subtitle {
+				font-size: 0.72rem;
+				letter-spacing: 0.06rem;
+				line-height: 1.5;
+				margin: 0 0 0.85rem 2.9rem;
+				opacity: 0.62;
+				text-transform: uppercase;
+			}
+
+			#main article#research .research-label {
+				font-size: 0.78rem;
+				font-weight: 600;
+				letter-spacing: 0.08rem;
+				margin-bottom: 0.4rem;
+				opacity: 0.72;
+			}
+
+			#main article#teaching .outreach-item {
+				margin-top: 1rem;
+			}
+
+			#main article#teaching .outreach-cover {
+				border-radius: 4px;
+				display: block;
+				height: auto;
+				margin: 0 0 1.25rem 0;
+				width: 100%;
+			}
+
+			#main article#teaching .outreach-audio {
+				display: block;
+				margin: 0.25rem 0 1rem 0;
+				width: 100%;
+			}
+
 			#main article .close {
 				display: block;
 				position: absolute;

@@ -1,100 +1,74 @@
 # Research
 
-## A. 量子色动力学因子化定理的证明
+Quantum field theory provides our most precise framework for understanding the microscopic laws that govern the Universe. It describes matter, forces, and the quantum vacuum within a common language. The Standard Model built on this framework has achieved extraordinary success, yet its compact equations do not by themselves explain how complex structures and observable patterns emerge across vastly different scales. Establishing this connection—from quarks and gluons to hadrons, nuclei, and collider events—is a central problem in contemporary theoretical physics and requires quantitative control of both perturbative and nonperturbative dynamics.
 
-- 基于重整化群理论，研究了喷注产生过程中“超级领头对数”效应，首次得到了所有阶重求和的解析结果。
+Our group works on the precision frontier of quantum field theory, with quantum chromodynamics (QCD) as its principal laboratory. We develop factorization theorems, effective-field-theory descriptions, subtraction methods, resummation techniques, and numerical tools. The aim is quantitative: predictions with controlled approximations and uncertainties that can be tested against data.
 
-    - [Phys.Rev.Lett. 127 (2021) 21, 212002](https://doi.org/10.1103/PhysRevLett.127.212002)  
-<br/>
+Our work is motivated by measurements at the [LHC](https://home.cern/science/accelerators/large-hadron-collider) and [RHIC](https://www.bnl.gov/rhic/), as well as the physics programs of the [EIC](https://www.bnl.gov/eic/), [EicC](https://www.impcas.ac.cn/kyjz2017/202107/t20210707_6128155.html), [CEPC](https://cepc.ihep.ac.cn/), [FCC](https://fcc.cern/), and [STCF](https://stcf.fudan.edu.cn/). We also draw on ideas from quantum information and machine learning when they provide useful ways to formulate or solve field-theory problems.
 
-- 证明了Sterman-Weinberg双喷注产生过程的因子化。
+> **Research in the Group**
+>
+> Students usually begin with a concrete observable or theoretical problem and learn the relevant field theory, analytic techniques, and numerical methods as the project develops. Topics range from formal questions about infrared structure to phenomenology for current and future colliders. We value independent thinking, careful calculations, and close contact with experiment. Students interested in quantum field theory, particle and nuclear physics, or scientific computing are welcome to contact us.
 
-    - [Phys.Rev.Lett. 116 (2016) 19, 192001](https://doi.org/10.1103/PhysRevLett.116.192001) (引用超100次)
-    - [JHEP 11 (2016) 019](https://doi.org/10.1007/JHEP11(2016)019) (引用超50次)
-<br/>
-<br/>
+## 01 Precision QCD and Factorization
 
-- 推广了强子对撞机上喷注过程的横动量依赖的QCD因子化公式，揭示了末态非线性演化效应的贡献。
+*Infrared Structure, Resummation and Effective Field Theory*
 
-    - [JHEP 11 (2019) 025](https://doi.org/10.1007/JHEP11(2019)025)
-<br/>
-<br/>
+We study the infrared structure of gauge theories and construct factorization and subtraction frameworks for multiscale observables. Current work includes transverse-momentum subtraction at high orders, resummation of large and non-global logarithms, and parton-shower evolution.
 
-- 发展了喷注演化中多体模拟算法，提高了部分子簇射(Parton Shower)的理论精度。
+**Recent Work**
 
-    - [JHEP 12 (2016) 018](https://doi.org/10.1007/JHEP12(2016)018)
-    - [JHEP 10 (2017) 030](https://doi.org/10.1007/JHEP10(2017)030)
-    - [JHEP 08 (2018) 104](https://doi.org/10.1007/JHEP08(2018)104)
-<br/>
-<br/>
+- [Two-Dimensional Transverse-Momentum Subtraction and Semi-Inclusive Deep-Inelastic Scattering at N³LO](https://arxiv.org/abs/2603.29673)
+- [qT Slicing with Multiple Jets](https://arxiv.org/abs/2412.05358)
+- [Factorization of non-global LHC observables and resummation of super-leading logarithms](https://doi.org/10.1007/JHEP12(2023)116)
 
-## B. 核子结构三维成像
+## 02 Jet Physics and Phenomenology
 
-- 提出了测量质子内部横动量依赖(TMD)分布函数的新方法。
+*Jets, Energy Flow and Heavy Particles*
 
-    - [Phys.Rev.Lett. 125 (2020) 242003](https://doi.org/10.1103/PhysRevLett.125.242003)
-    - [JHEP 02 (2021) 066](https://doi.org/10.1007/JHEP02(2021)066)
-    - [JHEP 11 (2021) 005](https://doi.org/10.1007/JHEP11(2021)005)
-<br/>
-<br/>
+Jets turn short-distance quark and gluon dynamics into measurable energy flow. We design and calculate jet and energy-correlation observables, with applications to azimuthal decorrelations, recoil-free measurements, hadronization, and top-quark processes.
 
-- 提出反冲无关喷注算法，并发现了初态核子与末态喷注中胶子的线性偏振行为。
+**Recent Work**
 
-    - [Phys.Lett.B 815 (2021) 136124 ](https://doi.org/10.1016/j.physletb.2021.136124)
-<br/>
-<br/>
+- [Tracing Vacuum Hadronization with Conserved Currents](https://arxiv.org/abs/2608.19708)
+- [Resummed azimuthal decorrelation and transverse momentum imbalance of dijets at the LHC](https://arxiv.org/abs/2602.20249)
+- [NNLL′ resummation for boosted top-quark pair production](https://arxiv.org/abs/2602.12572)
 
+## 03 Nucleon Structure and Spin Physics
 
-- 揭示了正负电子对撞实验中超子横向极化等观测结果的理论机制。
+*TMDs, Transversity and Tomography*
 
-    - [Phys.Lett.B 818 (2021) 136371](https://doi.org/10.1016/j.physletb.2021.136371)
-    - [JHEP 12 (2020) 127](https://doi.org/10.1007/JHEP12(2020)127)
-<br/>
-<br/>
+We use transverse-momentum-dependent factorization, semi-inclusive deep-inelastic scattering, energy correlators, and jettiness observables to map momentum, spin, and spatial correlations inside nucleons and nuclei. Main targets include transversity, the tensor charge, and three-dimensional tomography.
 
-## C. 顶夸克与重味物理
+**Recent Work**
 
-- 发展了顶夸克对产生的横动量依赖的因子化公式
+- [Transverse Charge Distribution as a Probe of Nucleon Transversity](https://arxiv.org/abs/2607.16392)
+- [Next-to-Next-to-Leading-Order QCD Corrections to Hadron Production in DIS at Finite Transverse Momentum](https://arxiv.org/abs/2602.22972)
+- [Accessing Nucleon Transversity with One-Point Energy Correlators](https://arxiv.org/abs/2509.15809)
+- [Nucleon Tomography with Zero Jettiness](https://arxiv.org/abs/2506.15962)
 
-    - [Phys.Rev.Lett. 110 (2013) 8, 082001](https://doi.org/10.1103/PhysRevLett.110.082001) (引用超50次)
-<br/>
-<br/>
+## 04 Small-x and Ultraperipheral Physics
 
-- 发展了重味喷注的因子化与重求和公式，并研究了对胶子分布函数的影响
+*Diffraction, Gluon Saturation and Photon-Induced Processes*
 
-    - [JHEP 05 (2021) 286](https://doi.org/10.1007/JHEP05(2021)286)
-<br/>
-<br/>
+At high energy, dense gluon fields and coherent photon interactions provide complementary views of hadron and nuclear structure. We study small-x evolution, saturation, diffraction, coherent photoproduction, and photon-induced reactions in ultraperipheral collisions.
 
-- 精确计算了电弱诱导的单个顶夸克产生的阈值重求和效应
+**Recent Work**
 
-    - [JHEP 06 (2019) 125](https://doi.org/10.1007/JHEP06(2019)125)
-<br/>
-<br/>
+- [Recoil Geometry Unmasks Gluon Saturation in Forward Z⁰ Production](https://arxiv.org/abs/2609.02356)
+- [Azimuthal decorrelation in diffractive dijet production](https://arxiv.org/abs/2606.02230)
+- [Geometry-induced azimuthal anisotropy in coherent J/ψ photoproduction](https://arxiv.org/abs/2511.17670)
+- [Photon-induced proton and antiproton pair production at RHIC](https://arxiv.org/abs/2406.05618)
 
-- 顶夸克对产生中超越标准模型新物理的研究
+## 05 Quantum Information and Computation
 
-    - [Phys.Rev.D 84 (2011) 054016](https://doi.org/10.1103/PhysRevD.84.054016)
-    - [Eur.Phys.J.C 72 (2012) 2232](https://doi.org/10.1140/epjc/s10052-012-2232-6)
-<br/>
-<br/>
+*Quantum Channels, Machine Learning and Parton Dynamics*
 
-## D. Higgs物理
+Quantum-information language provides a useful description of spin correlations, entanglement, and decoherence in scattering and hadronization. We also investigate machine-learning methods for problems such as nonlinear evolution and variable-multiplicity event generation.
 
-- Higgs对产生的精确理论预言
+**Recent Work**
 
-    - [JHEP 07 (2013) 169](https://doi.org/10.1007/JHEP07(2013)169) (引用超150次) 
-<br/>
-<br/>
-
-- 利用干涉效应研究Higgs粒子的衰变宽度
-
-    - [JHEP 08 (2015) 065](https://doi.org/10.1007/JHEP08(2015)065) (引用超50次)
-<br/>
-<br/>
-
-- Higgs与电弱粒子联合产生 
-
-    - [JHEP 02 (2014) 117](https://doi.org/10.1007/JHEP02(2014)117)
-<br/>
-<br/>
+- [Nested-GPT for variable-multiplicity parton showers](https://arxiv.org/abs/2605.18360)
+- [Determination of the initial condition of the Balitsky-Kovchegov equation with transformers](https://arxiv.org/abs/2510.26779)
+- [Decoherence in high-energy collisions as renormalization-group flow](https://arxiv.org/abs/2510.13951)
+- [Spin correlations and Bell nonlocality in ΛΛ̅ production](https://arxiv.org/abs/2507.15387)
