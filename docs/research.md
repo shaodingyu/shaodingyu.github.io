@@ -4,7 +4,7 @@ Quantum field theory provides our most precise framework for understanding the m
 
 Our group works on the precision frontier of quantum field theory, with quantum chromodynamics (QCD) as its principal laboratory. We develop factorization theorems, effective-field-theory descriptions, subtraction methods, resummation techniques, and numerical tools. The aim is quantitative: predictions with controlled approximations and uncertainties that can be tested against data.
 
-Our work is motivated by measurements at the [LHC](https://home.cern/science/accelerators/large-hadron-collider) and [RHIC](https://www.bnl.gov/rhic/), as well as the physics programs of the [EIC](https://www.bnl.gov/eic/), [EicC](https://www.impcas.ac.cn/kyjz2017/202107/t20210707_6128155.html), [CEPC](https://cepc.ihep.ac.cn/), [FCC](https://fcc.cern/), and [STCF](https://stcf.fudan.edu.cn/). We also draw on ideas from quantum information and machine learning when they provide useful ways to formulate or solve field-theory problems.
+Our work is motivated by measurements at the [LHC](https://home.cern/science/accelerators/large-hadron-collider) and [RHIC](https://www.bnl.gov/rhic/), as well as the physics programs of the [EIC](https://www.bnl.gov/eic/), [EicC](https://www.impcas.ac.cn/kyjz2017/202107/t20210707_6128155.html), [CEPC](https://english.ihep.cas.cn/cepc/ac/tcp/202110/t20211026_286705.html), [FCC](https://fcc.cern/), and [STCF](https://stcf.ustc.edu.cn/). We also draw on ideas from quantum information and machine learning when they provide useful ways to formulate or solve field-theory problems.
 
 > **Research in the Group**
 >

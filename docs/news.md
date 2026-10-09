@@ -2,6 +2,14 @@
 
 ## 2026
 
+- **邵鼎煜课题组与合作者将半单举深度非弹性散射QCD理论预言推进至迄今最高精度**
+  <br/>2026年10月9日
+  <br/><img src="sidis-n3lo-2026.png" alt="半单举深度非弹性散射过程示意图及未来电子—离子对撞机" style="display:block; width:100%; max-width:240px; height:auto; margin:0.75rem auto 1rem; border-radius:4px;" />
+  <br/>邵鼎煜课题组与合作者首次完成非极化半单举深度非弹性散射（SIDIS）的次次次领头阶（N³LO）量子色动力学计算。团队提出“二维横动量减除方法”，系统处理复杂辐射效应，将该过程的固定阶微扰论预言推进至迄今最高精度，为精确提取质子内部不同味夸克的分布及碎裂函数建立了新的理论基准，并为未来电子—离子对撞机的精密测量提供理论支持。相关论文于2026年10月6日发表于《Physical Review Letters》。
+  <br/>[查看详情](https://phys.fudan.edu.cn/1c/38/c7609a793656/page.htm) · [论文链接](https://journals.aps.org/prl/abstract/10.1103/gnk4-8p43)
+  <br/>
+  <br/>
+
 - **复旦粒子物理暑期学校2026顺利闭幕**
   <br/>2026年8月29日
   <br/><span style="display:block; max-width:360px; margin:0.75rem auto 1rem; text-align:center;">
