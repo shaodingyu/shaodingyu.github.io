@@ -2,6 +2,13 @@
 
 ## 2026
 
+- **邵鼎煜老师受邀在CERN理论部QCD Seminar作学术报告**
+  <br/>2026年10月12日
+  <br/>邵鼎煜老师受邀在欧洲核子研究中心（CERN）理论部QCD Seminar作学术报告，介绍课题组在高阶量子色动力学计算、核子精确成像以及对撞机事件中量子退相干等方向的研究进展。
+  <br/>[报告链接](https://indico.cern.ch/event/1721148/)
+  <br/>
+  <br/>
+
 - **邵鼎煜课题组与合作者将半单举深度非弹性散射QCD理论预言推进至迄今最高精度**
   <br/>2026年10月9日
   <br/><img src="sidis-n3lo-2026.png" alt="半单举深度非弹性散射过程示意图及未来电子—离子对撞机" style="display:block; width:100%; max-width:240px; height:auto; margin:0.75rem auto 1rem; border-radius:4px;" />
